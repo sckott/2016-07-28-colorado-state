@@ -2,7 +2,7 @@
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
 workshop_repo   : "https://github.com/sckott/2016-07-28-colorado-state"
-workshop_site   : "https://sckott.github.io/2016-07-28-colorado-state"
+workshop_site   : "http://recology.info/2016-07-28-colorado-state/"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
